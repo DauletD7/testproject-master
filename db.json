@@ -1,0 +1,93 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Godfather",
+      "date": "March 24, 1972 | R",
+      "image": "https://static.metacritic.com/images/products/movies/3/47c2b1f35087fc23c5ce261bbc3ad9e0-98.jpg",
+      "mustSee": true,
+      "desc": "Francis Ford Coppola's epic features Marlon Brando in his Oscar-winning role as the patriarch of the Corleone family. Director Coppola paints a chilling portrait of the Sicilian clan's rise and near fall from power in America, masterfully balancing the story between the Corleone's family life and the ugly crime business in which they are engaged. Based on Mario Puzo's best-selling novel and featuring career-making performances by Al Pacino, James Caan and Robert Duvall, this searing and brilliant film garnered ten Academy Award nominations, and won three including Best Picture of 1972. [Paramount Pictures]",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=55477&e=2208902400&videokbrate=1500&h=0f0c538871d6e5691f7d293007d19302",
+      "meta": 100,
+      "user": 9.2,
+      "metacritic": [{
+        "id": 1,
+        "rate": 100,
+        "name": "Kenneth Turan dasdsadadas",
+        "img": "https://static.metacritic.com/images/publications/1567123182_63_2117062957.png",
+        "text": "Overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood. And its deaths, like that of Hotspur in 'Henry IV, Part I,' continue to shock no matter how often we've watched them coming. [16 Mar 1997, Calendar, p.7]"
+      },
+      {
+        "id": 1,
+        "rate": 100,
+        "name": "Kenneth Turan dasdsadadas",
+        "img": "https://static.metacritic.com/images/publications/1567123182_63_2117062957.png",
+        "text": "Overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood. And its deaths, like that of Hotspur in 'Henry IV, Part I,' continue to shock no matter how often we've watched them coming. [16 Mar 1997, Calendar, p.7]"
+      }],
+      "usercritic": [{
+        "id": 1,
+        "date": "Aug 13, 2009",
+        "rate": 100,
+        "name": "VladislavK",
+        "text": "Really one of the greatest films of all time I don't need to add more"
+      }]
+    },
+    {
+      "id": 2,
+      "name": "Citizen Kane",
+      "date": "September 4, 1941 | Approved",
+      "image": "https://static.metacritic.com/images/products/movies/5/1c4da52a6f2335836a21271ec4a6f6b3-98.jpg",
+      "mustSee": false,
+      "desc": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=1502&e=2208902400&videokbrate=1500&h=877cd776f483bf6afa23eebe746f0cfc",
+      "meta": 100,
+      "user": 8.4,
+      "metacritic": [{
+        "id": 1,
+        "rate": 100,
+        "name": "Kenneth Turan",
+        "img": "https://static.metacritic.com/images/publications/1567123182_63_2117062957.png",
+        "text": "Overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood. And its deaths, like that of Hotspur in 'Henry IV, Part I,' continue to shock no matter how often we've watched them coming. [16 Mar 1997, Calendar, p.7]"
+      }],
+      "usercritic": [{
+        "id": 1,
+        "date": "Aug 13, 2009",
+        "rate": 100,
+        "name": "VladislavK",
+        "text": "Really one of the greatest films of all time I don't need to add more"
+      }]
+    },
+    {
+      "name": "Parasite",
+      "desc": "Meet the Park Family: the picture of aspirational wealth. And the Kim Family, rich in street smarts but not much else. Be it chance or fate, these two houses are brought together and the Kims sense a golden opportunity. Masterminded by college-aged Ki-woo, the Kim children expediently install themselves as tutor and art therapist, to the Parks. Soon, a symbiotic relationship forms between the two families. The Kims provide “indispensable” luxury services while the Parks obliviously bankroll their entire household. When a parasitic interloper threatens the Kims’ newfound comfort, a savage, underhanded battle for dominance breaks out, threatening to destroy the fragile ecosystem between the Kims and the Parks. [Neon]",
+      "date": "October 11, 2019 | Not Rated",
+      "image": "https://static.metacritic.com/images/products/movies/5/b0eb57fd63df90ca7e654c788f5851a8-98.jpg",
+      "mustSee": "true",
+      "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=179541&e=2208902400&videokbrate=1500&h=f06f6defbc21a32c80ceaef3ba4c0701",
+      "meta": 96,
+      "user": 8,
+      "id": 3,
+      "metacritic": [{
+        "id": 1,
+        "rate": 100,
+        "name": "Kenneth Turan",
+        "img": "https://static.metacritic.com/images/publications/1567123182_63_2117062957.png",
+        "text": "Overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood. And its deaths, like that of Hotspur in 'Henry IV, Part I,' continue to shock no matter how often we've watched them coming. [16 Mar 1997, Calendar, p.7]"
+      },
+      {
+        "id": 1,
+        "rate": 100,
+        "name": "Kenneth Turan",
+        "img": "https://static.metacritic.com/images/publications/1567123182_63_2117062957.png",
+        "text": "Overflowing with life, rich with all the grand emotions and vital juices of existence, up to and including blood. And its deaths, like that of Hotspur in 'Henry IV, Part I,' continue to shock no matter how often we've watched them coming. [16 Mar 1997, Calendar, p.7]"
+      }],
+      "usercritic": [{
+        "id": 1,
+        "date": "Aug 13, 2009",
+        "rate": 100,
+        "name": "VladislavK",
+        "text": "Really one of the greatest films of all time I don't need to add more"
+      }]
+    }
+  ]
+}
